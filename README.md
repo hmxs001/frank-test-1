@@ -1,10 +1,17 @@
-轱辘 一个Vue UI组件
-作者：小小生
+<h1>轱辘 一个Vue UI组件</h1>
+<h2>作者：<span style="color:red;">小小生</span></h2>
 
 
-步骤：
-1.git init
-2.git add .
-3.git commit -m 'init'
-4.git remote add origin https://github.com/hmxs001/frank-test-1.git
-5.git push -u origin master
+<h3>步骤：</h3>
+<ul>
+    <li>1.git init</li>
+    <li>2.git add .</li>
+    <li>3.git commit -m 'init'</li>
+    <li>4.git remote add origin https://github.com/hmxs001/frank-test-1.git</li>
+    <li>5.git push -u origin master</li>
+</ul>
+
+
+
+
+

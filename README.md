@@ -1,5 +1,5 @@
-<h1>轱辘 一个Vue UI组件</h1>
-<h2>作者：<span style="color:red;">小小生</span></h2>
+# 轱辘 一个Vue UI组件
+作者：小小生
 
 
 <h3>步骤：</h3>
@@ -12,6 +12,13 @@
 </ul>
 
 
+## 安装
+
+使用本框架前，请在css中开启border-box
+
+```
+*{box-sizing:border-box;}
+```
 
 
 
